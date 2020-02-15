@@ -3,7 +3,8 @@
 I made this large eCommerce website for my Australian client. I have taken almost 3 months for this website. It has a 13000+ Music instrumental Products.
 
 I used WordPress and WooCommerce for the entire project. I made a custom WordPress theme with custom features.
-Language and framework I use:
+Language and framework I use
+
 -> PHP
 -> JavaScript
 -> HTML
@@ -13,7 +14,8 @@ Language and framework I use:
 -> Redis
 -> WordPress
 -> WooCommerce etc.
------------------
+
+
 Features of the website:
 -> Product update from CSV file using WP ALL IMPORT Pro.
 -> Wish List.
